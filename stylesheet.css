@@ -1,0 +1,101 @@
+html {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* nav-bar */
+.nav-bar ul {
+    position: fixed;
+    top: 0;
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    margin-left: -.5em;
+    padding: 0;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 100%;
+    background-color: #52bad5;
+}
+
+.nav-bar li {
+    display: inline-block;
+    font-size: 30px;
+}
+
+.nav-bar li a {
+    display: block;
+    padding-right: 20%;
+}
+
+.nav-bar li a:visited {
+    color: white;
+}
+
+.nav-bar li a:hover {
+    color: lightslategray;
+}
+
+/* nav-bar */
+
+/* welcome */
+.welcome {
+    margin: -.5em;
+    background-color: #b3b3b3;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-top: 5%;
+    text-align: center;
+}
+/*  welcome */
+
+/* gallery */
+.gallery {
+    clear: both;
+    display: inline-block;
+    width: 100%;
+    background-color: #ffff;
+    padding-bottom: 35px;
+    padding-top: 0;
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+/* gallery */
+
+/* thumbnail */
+.thumbnail {
+    background-color: white;
+    width: 33%;
+    text-align: center;
+    float: left;
+    margin-top: 35px;
+}
+
+.thumbnail .stats {
+    color: #717070;
+}
+
+.thumbnail h4 {
+    color: #52bad5;
+}
+
+.thumbnail a, a:visited {
+    color: #b3b3b3;
+}
+
+.thumbnail a:hover {
+    color: aqua;
+}
+
+/* thumbnail */
+
+/* playoftheday */
+.playoftheday {
+    background-image: url(Assets/Images/)
+}
+
+/* playoftheday */
