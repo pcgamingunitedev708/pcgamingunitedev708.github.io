@@ -5,4 +5,10 @@ todo list main tasks for site
 4. weekly update
 
 finished tasks:
-github issue fixed collabrators were not added and now correct users are added. 
+1.github issue fixed collabrators were not added and now correct users are added
+
+
+prority based tasks(tasks that need done right away):
+
+
+serverity based tasks that need to be done(could affect workflow or users):
