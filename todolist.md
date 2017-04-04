@@ -11,7 +11,7 @@ _______________________________________________________________________________
 git add --all
 git commit -m  "automated push"
 git push
-___
+_____________
 3.template is deployed
 template was made by nick
 ___________________________________________________
