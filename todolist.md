@@ -6,10 +6,15 @@ todo list main tasks for site
 
 finished tasks:
 1.github issue fixed collabrators were not added and now correct users are added
+___
 2.automated push tool
+___
 3.template is deployed
-
+___________________________________________________
 prority based tasks(tasks that need done right away):
 
 
 serverity based tasks that need to be done(could affect workflow or users):
+
+
+______
