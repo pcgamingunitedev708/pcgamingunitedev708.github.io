@@ -6,8 +6,8 @@ todo list main tasks for site
 
 finished tasks:
 1.github issue fixed collabrators were not added and now correct users are added
-automated push tool
-
+2.automated push tool
+3.template is deployed
 
 prority based tasks(tasks that need done right away):
 
